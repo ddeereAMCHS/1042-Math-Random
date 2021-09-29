@@ -1,7 +1,6 @@
-# UserInput
+# MathRandom
 
-- Create a program called `UserInput.java`
-- Prompt the user for their name
-- Prompt the user for their age
-- Print the user's name and what their age will be in 30 years
-  - Hello `NAME`, you will be `AGE+30` in 30 years.
+- Write a program called `MathRandom.java`
+- Using Scanner, have the user input a whole number
+- Have the user input another whole number
+- Use `Math.random()` to print a random number between the two numbers the user entered
