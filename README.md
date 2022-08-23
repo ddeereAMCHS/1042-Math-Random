@@ -1,5 +1,7 @@
 # MathRandom
 
+## Due: DoW MM/DD at 11:59 PM
+
 - Write a program called `MathRandom.java`
 - Using Scanner, have the user input a whole number
 - Have the user input another whole number
