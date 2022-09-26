@@ -1,6 +1,6 @@
 # MathRandom
 
-## Due: DoW MM/DD at 11:59 PM
+## Due: Tue 9/27 at 11:59 PM
 
 - Write a program called `MathRandom.java`
 - Prompt the user for a whole number
