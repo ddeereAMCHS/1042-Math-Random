@@ -7,7 +7,7 @@
       "input": "1\r\n10",
       "output": "Random number: [1-9]{1}$",
       "comparison": "regex",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -17,7 +17,7 @@
       "input": "10\r\n1",
       "output": "Random number: [1-9]{1}$",
       "comparison": "regex",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -27,7 +27,7 @@
       "input": "5\r\n6",
       "output": "Random number: 5$",
       "comparison": "regex",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -37,7 +37,7 @@
       "input": "1\r\n0",
       "output": "Random number: 0$",
       "comparison": "regex",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     }
   ]
